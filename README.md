@@ -4,7 +4,7 @@ Where the party would be.
 
 ![ui](https://github.com/botbreeder/open-city/raw/main/ui.png)
 
-## Design inspiration
+## Design
 
 * [Qwant: dark ui design](https://www.qwant.com/?q=dark+ui+design&t=images)
 * [Medium: Geniuses we love - RomainTrystram](https://medium.muz.li/geniuses-we-love-romaintrystram-f6cc1ce343d3)
