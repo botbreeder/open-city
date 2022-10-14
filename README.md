@@ -1,7 +1,7 @@
 # OPEN CITY
 
-    https://opencity.web.app/
     Where the party would be.
+    https://opencity.web.app/
 
 ![ui](https://github.com/botbreeder/open-city/raw/main/ui.png)
 
