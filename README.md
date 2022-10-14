@@ -1,6 +1,7 @@
 # OPEN CITY
 
-Where the party would be. https://opencity.web.app/
+    https://opencity.web.app/
+    Where the party would be.
 
 ![ui](https://github.com/botbreeder/open-city/raw/main/ui.png)
 
@@ -10,9 +11,9 @@ Where the party would be. https://opencity.web.app/
 * [Medium: Geniuses we love - RomainTrystram](https://medium.muz.li/geniuses-we-love-romaintrystram-f6cc1ce343d3)
 * [SomaFM: Lush](https://somafm.com/player/#/now-playing/lush)
 
-## Stack/ assets/ tools/
+## Stack assets tools/
 
 * [Supermedium: A-Frame](https://aframe.io/)
 * [Ephtracy: Magicavoxel](https://www.voxelmade.com/magicavoxel/)
 * [Google: Firebase](https://firebase.google.com/)
-* [mikelovesrobots: Mini Mike's Metro Minis](https://github.com/mikelovesrobots/mmmm)
+* [Mikelovesrobots: Mini Mike's Metro Minis](https://github.com/mikelovesrobots/mmmm)
