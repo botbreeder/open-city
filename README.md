@@ -1,6 +1,6 @@
 # OPEN CITY
 
-_Where the party would be._
+Where the party would be. https://opencity.web.app/
 
 ![ui](https://github.com/botbreeder/open-city/raw/main/ui.png)
 
