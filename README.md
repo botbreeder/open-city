@@ -1,9 +1,10 @@
 # OPEN CITY
 
-    Where the party would be.
-    https://opencity.web.app/
+Where the party would be.
 
 ![ui](https://github.com/botbreeder/open-city/raw/main/ui.png)
+
+    https://opencity.web.app/
 
 ## Design inspiration/
 
